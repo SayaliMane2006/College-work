@@ -10,5 +10,5 @@ Watch my video here: [Preskilet Video](https://github.com/SayaliMane2006/College
 - [Cisco Python Essentials 2](https://github.com/SayaliMane2006/College-work/blob/main/Cisco%20Python%20Essential%202%20Certification%20.pdf)
 
 ## 📂 EDS Laboratory Assignments
-
+-(https://github.com/SayaliMane2006/College-work/blob/main/EDS%20Laboratory%20Assignments.pdf)
 
